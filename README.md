@@ -24,4 +24,5 @@
 
 ## 🗣️ About
 
-	Minesweeper game project, which was very popular in the past years, based on object-oriented programming and gui.
+	Minesweeper game project, which was very popular in the past years, based on 
+	object-oriented programming and gui.
